@@ -1,0 +1,35 @@
+{
+    "livres": [
+        {
+            "isbn": "978-2-02-130451",
+            "titre": "Le petit prince",
+            "auteur": "Charles Autin",
+            "annee": 1997,
+            "categorie": "Aventure",
+            "emprunte": false
+        },
+        {
+            "isbn": "6549876",
+            "titre": "Alice au pays des merveille",
+            "auteur": "Jean Barnaud",
+            "annee": 1978,
+            "categorie": "Aventure",
+            "emprunte": false
+        },
+        {
+            "isbn": "789323",
+            "titre": "Le manuel du procrastinateur parfait",
+            "auteur": "Pierre Demain",
+            "annee": 2006,
+            "categorie": "D\u00e9veloppement personnel",
+            "emprunte": false
+        }
+    ],
+    "utilisateurs": [
+        {
+            "nom": "jeff",
+            "id": 1,
+            "email": "jeffbaka00@gmail.com"
+        }
+    ]
+}
